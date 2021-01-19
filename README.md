@@ -8,4 +8,5 @@ This is a basic application that calculates a user's BMI using their weight in k
 ![Demo](https://github.com/A3AJAGBE/bmi-calc/blob/main/bmi-calc-video.gif)
 
 [Mini-Project or Exercise 2 of 2](https://github.com/A3AJAGBE/goal-duration)
+
 [Project](https://github.com/A3AJAGBE/bill-splitor)
